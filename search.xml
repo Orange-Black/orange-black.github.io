@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>期待</title>
+    <url>/2023/03/11/%E6%9C%9F%E5%BE%85/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>一段时间之后，本站就能联网让其他人看到了，敬请期待~</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Orange</title>
     <url>/2023/03/11/Orange/</url>
-    <content><![CDATA[<p>English<br>Welcome to Orange’s web!<br>中文<br>欢迎来到橙子的网站！</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>English<br>Welcome to Orange’s web!<br>中文<br>欢迎来到橙子的网站！</p>
 ]]></content>
   </entry>
 </search>
