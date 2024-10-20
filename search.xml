@@ -13,8 +13,18 @@
   <entry>
     <title>挑战解密此文章</title>
     <url>/%E6%8C%91%E6%88%98%E8%A7%A3%E5%AF%86%E6%AD%A4%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>恭喜您，挑战成功！<br>要再次挑战，请单击下面的蓝色按钮。</p>
-]]></content>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，密码错误，请重试。" data-whm="抱歉, 此文章不能被校验，不过您还是可以查看解密后的内容。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="d496e685ecb4f27a1a855de02b0b3a8415890b5bbb4fdc930fe9f19a801b0b79">6d7c146247a830e84e1a03344ce306bd1c5d73f5c7dbf4ee8b8c911262402713d36e6ad00be50f516194d9629b2bf662fc79c302e0974c9c71374de9bf36c6d4c2fd24c14144333c474c575143426151cc28bff24f01d737f1fb44fda550adc0f3aa4077174ab438ffac0e688181190f3c2e4ef95028129f67d7ddd7a50101a7a89bcc63416f1df98b7077e9e6895a977d5c3d2b3a49103d057d29bf44bc229f9b14b770b0025d3b920fb15ddfdf033e706635c70a9688b2bcc519efefd547fc5909b34245c144c535149093c126e8931d3fefa01ef9215f3307fda9646f42c3c83be5e5745fed58246102e682924742af5359770aff4fb7c443ba23c0dc9586bce1e576ae84c76ffb1b49845c1c8dee669a30b2c9e38d8dd8853bde45a23812eb3c9673beed6aac68bacbcf9ef2b5c0</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
   </entry>
   <entry>
     <title>相册</title>
